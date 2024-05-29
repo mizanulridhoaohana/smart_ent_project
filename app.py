@@ -6,7 +6,7 @@ import pandas as pd
 from efficientnet.tfkeras import EfficientNetB0
 
 # Load the model
-model_path = './models/1-model_tuning224_128_adam.h5'
+model_path = './models/v2_new_arch.h5'
 model = tf.keras.models.load_model(model_path)
 
 # Function to preprocess the image
