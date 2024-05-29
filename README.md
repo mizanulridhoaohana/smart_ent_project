@@ -1,1 +1,5 @@
-# visualization_for_ent
+# Smart ENT Project
+
+### Ear Disease Demo
+
+https://entdemo.streamlit.app/ 
